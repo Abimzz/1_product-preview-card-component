@@ -115,7 +115,7 @@ body {
     color: #ffff;
     font-size: 11px;
     text-align: center;
-    cursor: pointerolo;
+    cursor: pointer;
 }
 
 .button:hover {
